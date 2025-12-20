@@ -1,0 +1,21 @@
+# Maven build directory
+target/
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
